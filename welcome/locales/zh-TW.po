@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: nanako0129-trusty-cogs\n"
 "POT-Creation-Date: 2018-12-14 18:28-0700\n"
-"PO-Revision-Date: 2022-12-15 07:41\n"
+"PO-Revision-Date: 2022-12-15 11:09\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -26,39 +26,39 @@ msgstr ""
 #: welcome.py:36
 #, docstring
 msgid "Sets welcome module settings"
-msgstr ""
+msgstr "設定 welcome 模組"
 
 #: welcome.py:40
 msgid "Random Greeting "
-msgstr ""
+msgstr "隨機的問候 "
 
 #: welcome.py:41
 msgid "On "
-msgstr ""
+msgstr "On "
 
 #: welcome.py:42
 msgid "Channel "
-msgstr ""
+msgstr "頻道 "
 
 #: welcome.py:43
 msgid "Whisper "
-msgstr ""
+msgstr "耳語 "
 
 #: welcome.py:44
 msgid "Bots message "
-msgstr ""
+msgstr "機器人訊息 "
 
 #: welcome.py:45
 msgid "Bots role "
-msgstr ""
+msgstr "機器人身份組 "
 
 #: welcome.py:46
 msgid "Embeds "
-msgstr ""
+msgstr "Embeds "
 
 #: welcome.py:49
 msgid "Welcome settings for "
-msgstr ""
+msgstr "Welcome settings for "
 
 #: welcome.py:76
 #, docstring
